@@ -1,0 +1,6 @@
+[submodule "The-moment-of-moment"]
+	path = The-moment-of-moment
+	url = https://github.com/wally-wally/The-moment-of-moment.git
+[submodule "Making-Box"]
+	path = Making-Box
+	url = https://github.com/wally-wally/Making-Box.git
