@@ -34,3 +34,14 @@
 :round_pushpin: <b>Library</b> : `vue-router` , `vuex`
 
 :round_pushpin: <b>Editor</b> : `Visual Studio Code`
+
+<br>
+
+## :four: Getting Started
+
+:heavy_check_mark: To view the code fo the project, type the following command
+
+```bash
+git clone --recursive https://github.com/wally-wally/Artworks-Project.git
+```
+
