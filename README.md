@@ -39,7 +39,7 @@
 
 ## :four: Getting Started
 
-:heavy_check_mark: To view the code fo the project, type the following command
+:heavy_check_mark: To view the code of the project, type the following command.
 
 ```bash
 git clone --recursive https://github.com/wally-wally/Artworks-Project.git
